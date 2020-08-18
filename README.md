@@ -14,5 +14,5 @@
 有問題🤨點搵我？
 - 💗[Blog](https://kwaon.wordpress.com/)
 - 💗[Facebook](https://www.facebook.com/jsrwon)
-- 💗[電子信箱](lkwaifrl@gmail.com)
+- 💗[電子信箱](mailto:lkwaifrl@gmail.com)
 - 💗[GitHub](https://github.com/hkjswong/)
